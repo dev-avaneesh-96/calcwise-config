@@ -1,0 +1,24 @@
+{
+  "_readme": "Default interest rate (% p.a.) pre-filled for each government scheme. Update monthly/quarterly from the official notification. Values must be between 0 and 100.",
+  "asOf": "2026-10-12",
+  "rates": {
+    "ppf": {
+      "rate": 7.1
+    },
+    "epf": {
+      "rate": 8.25
+    },
+    "ssy": {
+      "rate": 8.2
+    },
+    "nsc": {
+      "rate": 7.7
+    },
+    "post-office-mis": {
+      "rate": 7.4
+    },
+    "scss": {
+      "rate": 8.2
+    }
+  }
+}
