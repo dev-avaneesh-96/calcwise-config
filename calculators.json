@@ -40,7 +40,7 @@
     "gst": true,
     "tds": true,
     "brokerage": true,
-    "margin": true
+    "margin": false
   },
   "sections": {
     "Investments & Mutual Funds": true,
